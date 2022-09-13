@@ -2,11 +2,29 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Narender Kumar</Authors>
+    <Company>Web Svc</Company>
+    <Description>MailService is for Sending SMTP email</Description>
+    <PackageProjectUrl>https://github.com/web-svc</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/web-svc/MailService</RepositoryUrl>
+    <RepositoryType>public</RepositoryType>
+    <PackageTags>mailservice, emailservice, email service, mail service, send email, web svc, web, svc, websvc, websvc.in</PackageTags>
+    <PackageReleaseNotes>First Relase: Only Send email service</PackageReleaseNotes>
+    <PackageId>Websvc.MailService</PackageId>
+    <Copyright>WebSvc for public use</Copyright>
+    <PackageLicenseFile>EULA.txt</PackageLicenseFile>
   </PropertyGroup>
 
   <ItemGroup>
     <Folder Include="Constant\" />
     <Folder Include="Extentsion\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\EULA.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
