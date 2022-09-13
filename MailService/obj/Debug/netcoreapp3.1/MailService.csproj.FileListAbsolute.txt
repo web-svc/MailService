@@ -1,0 +1,9 @@
+C:\Narender.K\MailService\MailService\bin\Debug\netcoreapp3.1\MailService.deps.json
+C:\Narender.K\MailService\MailService\bin\Debug\netcoreapp3.1\MailService.dll
+C:\Narender.K\MailService\MailService\bin\Debug\netcoreapp3.1\MailService.pdb
+C:\Narender.K\MailService\MailService\obj\Debug\netcoreapp3.1\MailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Narender.K\MailService\MailService\obj\Debug\netcoreapp3.1\MailService.AssemblyInfoInputs.cache
+C:\Narender.K\MailService\MailService\obj\Debug\netcoreapp3.1\MailService.AssemblyInfo.cs
+C:\Narender.K\MailService\MailService\obj\Debug\netcoreapp3.1\MailService.csproj.CoreCompileInputs.cache
+C:\Narender.K\MailService\MailService\obj\Debug\netcoreapp3.1\MailService.dll
+C:\Narender.K\MailService\MailService\obj\Debug\netcoreapp3.1\MailService.pdb
